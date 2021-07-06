@@ -1,4 +1,4 @@
-to see the build download the 'build' folder
+to see the production version download the 'build' folder
 
 to edit it in Vue enter the folder directory and run 'npm install'
 
