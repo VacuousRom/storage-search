@@ -151,8 +151,6 @@ input[type=number] {
   color: #FEA53F;
 }
 
-
-
 /* sort styling */
 
 .selection {
@@ -177,5 +175,15 @@ input[type=number] {
 }
 .icon-hover:hover {
   color: #FEA53F;
+}
+
+@media (min-width: 2000px) {
+  body {
+    background: #F2F3F7;
+  }
+  #app {
+    width: 80%;
+    margin: auto;
+  }
 }
 </style>
